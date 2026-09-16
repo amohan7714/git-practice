@@ -1,1 +1,5 @@
 print("this is for testing only")
+print("combine 1")
+print("combine 2")
+print("combine 3")
+print("combine 4")
