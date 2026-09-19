@@ -38,4 +38,3 @@ print("this is the mastere to dev rebase remote")
 print('this is the master testing')
 print("this is the new remote rebase")
 print("this is the mastere to dev rebase remote")
-
