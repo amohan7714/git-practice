@@ -16,4 +16,5 @@ print("this is only testing")
 print('this is the new merge1')
 print("this is the new merge2")
 print("this is the new merge3")
-
+print('fast forward1')
+print("fast forward2")
