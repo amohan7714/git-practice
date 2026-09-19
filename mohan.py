@@ -25,3 +25,5 @@ print('rebase change')
 print('rebase dev to maaster')
 print('rebase masater to dev')
 print("rebase m to d 1")
+print("rebase d to m 1")
+
