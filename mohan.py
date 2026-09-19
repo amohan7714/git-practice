@@ -28,3 +28,5 @@ print("rebase m to d 1")
 print("rebase d to m 1")
 print("rebase d to m 2")
 print("rebase m to d 2")
+print("rebase m to d 3")
+
