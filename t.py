@@ -12,4 +12,17 @@ print("this is the 11th version")
 print("this is the 12th version")
 print("this is the 13th versoin")
 print("this is the 14th verson")
+<<<<<<< HEAD
 
+=======
+print("this is the 15th verson")
+print("this is the combine commit 1")
+print("this is the combine commit 2")
+print("this is the combine commit 3")
+print("this is the new combine commit 1")
+print("this is the new combine commit 2")
+print("this is the new combine commit 3")
+print("test 1")
+print("test 2")
+print("test 3")
+>>>>>>> dev
