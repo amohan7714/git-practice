@@ -12,3 +12,8 @@ print("this is the mohan")
 print("this is for only merge")
 print("this is the merge from master to dev")
 print('this is for only testing')
+print("this is only testing")
+print('this is the new merge1')
+print("this is the new merge2")
+print("this is the new merge3")
+
